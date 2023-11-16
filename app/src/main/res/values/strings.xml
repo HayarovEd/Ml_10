@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Ml_10</string>
+    <string name="app_name">Smart Cash - Online Loan App</string>
+
+    //No Internet
+    <string name="not_connect">No internet!</string>
+    <string name="try_internet">Check your internet connection and\ntry again</string>
+    <string name="reconnect">Refresh</string>
+
+    //Other
+    <string name="loans">Loans</string>
+    <string name="amount">AMOUNT:</string>
+    <string name="bet">RATE:</string>
+    <string name="term">Term:</string>
+    <string name="checkout">Fill In</string>
+    <string name="details">Details</string>
+    <string name="back">Back</string>
+    <string name="methods">METHODS</string>
+    <string name="rating">RATING</string>
 </resources>
